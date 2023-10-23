@@ -1,0 +1,12 @@
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\bin\x86\Debug\GrafipsDota2Map.exe.config
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\bin\x86\Debug\GrafipsDota2Map.exe
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\bin\x86\Debug\GrafipsDota2Map.pdb
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\obj\x86\Debug\GrafipsDota2Map.csproj.AssemblyReference.cache
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\obj\x86\Debug\GrafipsDota2Map.csproj.SuggestedBindingRedirects.cache
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\obj\x86\Debug\GrafipsDota2Map.Form1.resources
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\obj\x86\Debug\GrafipsDota2Map.Properties.Resources.resources
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\obj\x86\Debug\GrafipsDota2Map.csproj.GenerateResource.cache
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\obj\x86\Debug\GrafipsDota2Map.csproj.CoreCompileInputs.cache
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\obj\x86\Debug\GrafipsDota2Map.exe
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\obj\x86\Debug\GrafipsDota2Map.pdb
+C:\Users\fona1\source\repos\GrafipsDota2Map\GrafipsDota2Map\obj\x86\Debug\GrafipsDota2Map.csproj.ResolveComReference.cache

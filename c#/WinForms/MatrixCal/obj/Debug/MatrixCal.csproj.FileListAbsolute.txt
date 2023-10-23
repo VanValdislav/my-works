@@ -1,0 +1,33 @@
+C:\Visual Studio Projects\C#\MatrixCal\bin\Debug\MatrixCal.exe.config
+C:\Visual Studio Projects\C#\MatrixCal\bin\Debug\MatrixCal.exe
+C:\Visual Studio Projects\C#\MatrixCal\bin\Debug\MatrixCal.pdb
+C:\Visual Studio Projects\C#\MatrixCal\obj\Debug\MatrixCal.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\C#\MatrixCal\obj\Debug\MatrixCal.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Projects\C#\MatrixCal\obj\Debug\MatrixCal.Form1.resources
+C:\Visual Studio Projects\C#\MatrixCal\obj\Debug\MatrixCal.Properties.Resources.resources
+C:\Visual Studio Projects\C#\MatrixCal\obj\Debug\MatrixCal.csproj.GenerateResource.cache
+C:\Visual Studio Projects\C#\MatrixCal\obj\Debug\MatrixCal.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\C#\MatrixCal\obj\Debug\MatrixCal.exe
+C:\Visual Studio Projects\C#\MatrixCal\obj\Debug\MatrixCal.pdb
+C:\Users\ismag\Desktop\C#\MatrixCal\bin\Debug\MatrixCal.exe.config
+C:\Users\ismag\Desktop\C#\MatrixCal\bin\Debug\MatrixCal.exe
+C:\Users\ismag\Desktop\C#\MatrixCal\bin\Debug\MatrixCal.pdb
+C:\Users\ismag\Desktop\C#\MatrixCal\obj\Debug\MatrixCal.csproj.AssemblyReference.cache
+C:\Users\ismag\Desktop\C#\MatrixCal\obj\Debug\MatrixCal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismag\Desktop\C#\MatrixCal\obj\Debug\MatrixCal.Form1.resources
+C:\Users\ismag\Desktop\C#\MatrixCal\obj\Debug\MatrixCal.Properties.Resources.resources
+C:\Users\ismag\Desktop\C#\MatrixCal\obj\Debug\MatrixCal.csproj.GenerateResource.cache
+C:\Users\ismag\Desktop\C#\MatrixCal\obj\Debug\MatrixCal.csproj.CoreCompileInputs.cache
+C:\Users\ismag\Desktop\C#\MatrixCal\obj\Debug\MatrixCal.exe
+C:\Users\ismag\Desktop\C#\MatrixCal\obj\Debug\MatrixCal.pdb
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\bin\Debug\MatrixCal.exe.config
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\bin\Debug\MatrixCal.exe
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\bin\Debug\MatrixCal.pdb
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\obj\Debug\MatrixCal.csproj.AssemblyReference.cache
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\obj\Debug\MatrixCal.csproj.SuggestedBindingRedirects.cache
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\obj\Debug\MatrixCal.Form1.resources
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\obj\Debug\MatrixCal.Properties.Resources.resources
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\obj\Debug\MatrixCal.csproj.GenerateResource.cache
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\obj\Debug\MatrixCal.csproj.CoreCompileInputs.cache
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\obj\Debug\MatrixCal.exe
+C:\Users\fona1\OneDrive\Рабочий стол\MatrixCal\obj\Debug\MatrixCal.pdb

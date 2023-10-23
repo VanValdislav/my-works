@@ -1,0 +1,8 @@
+C:\Users\fona1\source\repos\c_sharp_work3\c_sharp_work3\bin\Debug\c_sharp_work3.exe.config
+C:\Users\fona1\source\repos\c_sharp_work3\c_sharp_work3\bin\Debug\c_sharp_work3.exe
+C:\Users\fona1\source\repos\c_sharp_work3\c_sharp_work3\bin\Debug\c_sharp_work3.pdb
+C:\Users\fona1\source\repos\c_sharp_work3\c_sharp_work3\obj\Debug\c_sharp_work3.csproj.AssemblyReference.cache
+C:\Users\fona1\source\repos\c_sharp_work3\c_sharp_work3\obj\Debug\c_sharp_work3.csproj.SuggestedBindingRedirects.cache
+C:\Users\fona1\source\repos\c_sharp_work3\c_sharp_work3\obj\Debug\c_sharp_work3.csproj.CoreCompileInputs.cache
+C:\Users\fona1\source\repos\c_sharp_work3\c_sharp_work3\obj\Debug\c_sharp_work3.exe
+C:\Users\fona1\source\repos\c_sharp_work3\c_sharp_work3\obj\Debug\c_sharp_work3.pdb

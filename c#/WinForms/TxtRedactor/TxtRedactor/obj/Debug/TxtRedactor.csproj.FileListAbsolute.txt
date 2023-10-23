@@ -1,0 +1,12 @@
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\bin\Debug\TxtRedactor.exe.config
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\bin\Debug\TxtRedactor.exe
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\bin\Debug\TxtRedactor.pdb
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\obj\Debug\TxtRedactor.csproj.AssemblyReference.cache
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\obj\Debug\TxtRedactor.csproj.SuggestedBindingRedirects.cache
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\obj\Debug\TxtRedactor.Properties.Resources.resources
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\obj\Debug\TxtRedactor.csproj.GenerateResource.cache
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\obj\Debug\TxtRedactor.csproj.CoreCompileInputs.cache
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\obj\Debug\TxtRedactor.exe
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\obj\Debug\TxtRedactor.pdb
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\obj\Debug\TxtRedactor.Form1.resources
+C:\Users\fona1\source\repos\TxtRedactor\TxtRedactor\obj\Debug\TxtRedactor.Form2.resources

@@ -1,0 +1,4 @@
+﻿  Prakticheskai_Work.cpp
+C:\Users\fona1\source\repos\Prakticheskai_Work\Prakticheskai_Work\Prakticheskai_Work.cpp(13,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\fona1\source\repos\Prakticheskai_Work\Prakticheskai_Work\Prakticheskai_Work.cpp(22,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\fona1\source\repos\Prakticheskai_Work\Prakticheskai_Work\Prakticheskai_Work.cpp(289,1): error C2059: синтаксическая ошибка: ,

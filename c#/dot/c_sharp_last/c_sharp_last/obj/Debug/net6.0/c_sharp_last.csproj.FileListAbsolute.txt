@@ -1,0 +1,15 @@
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\bin\Debug\net6.0\c_sharp_last.exe
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\bin\Debug\net6.0\c_sharp_last.deps.json
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\bin\Debug\net6.0\c_sharp_last.runtimeconfig.json
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\bin\Debug\net6.0\c_sharp_last.dll
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\bin\Debug\net6.0\c_sharp_last.pdb
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\c_sharp_last.csproj.AssemblyReference.cache
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\c_sharp_last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\c_sharp_last.AssemblyInfoInputs.cache
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\c_sharp_last.AssemblyInfo.cs
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\c_sharp_last.csproj.CoreCompileInputs.cache
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\c_sharp_last.dll
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\refint\c_sharp_last.dll
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\c_sharp_last.pdb
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\c_sharp_last.genruntimeconfig.cache
+C:\Users\fona1\source\repos\c_sharp_last\c_sharp_last\obj\Debug\net6.0\ref\c_sharp_last.dll

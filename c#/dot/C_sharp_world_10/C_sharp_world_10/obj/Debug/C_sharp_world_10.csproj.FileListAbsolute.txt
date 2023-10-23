@@ -1,0 +1,8 @@
+C:\Users\fona1\source\repos\C_sharp_world_10\C_sharp_world_10\bin\Debug\C_sharp_world_10.exe.config
+C:\Users\fona1\source\repos\C_sharp_world_10\C_sharp_world_10\bin\Debug\C_sharp_world_10.exe
+C:\Users\fona1\source\repos\C_sharp_world_10\C_sharp_world_10\bin\Debug\C_sharp_world_10.pdb
+C:\Users\fona1\source\repos\C_sharp_world_10\C_sharp_world_10\obj\Debug\C_sharp_world_10.csproj.AssemblyReference.cache
+C:\Users\fona1\source\repos\C_sharp_world_10\C_sharp_world_10\obj\Debug\C_sharp_world_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\fona1\source\repos\C_sharp_world_10\C_sharp_world_10\obj\Debug\C_sharp_world_10.csproj.CoreCompileInputs.cache
+C:\Users\fona1\source\repos\C_sharp_world_10\C_sharp_world_10\obj\Debug\C_sharp_world_10.exe
+C:\Users\fona1\source\repos\C_sharp_world_10\C_sharp_world_10\obj\Debug\C_sharp_world_10.pdb

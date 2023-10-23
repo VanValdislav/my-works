@@ -1,0 +1,3 @@
+C:\Users\fona1\source\repos\C_sharp_work_12\C_sharp_work_12\obj\Debug\C_sharp_work_12.csproj.AssemblyReference.cache
+C:\Users\fona1\source\repos\C_sharp_work_12\C_sharp_work_12\obj\Debug\C_sharp_work_12.csproj.SuggestedBindingRedirects.cache
+C:\Users\fona1\source\repos\C_sharp_work_12\C_sharp_work_12\obj\Debug\C_sharp_work_12.csproj.CoreCompileInputs.cache

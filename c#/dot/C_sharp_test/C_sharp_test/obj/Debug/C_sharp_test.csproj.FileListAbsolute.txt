@@ -1,0 +1,8 @@
+C:\Users\fona1\source\repos\C_sharp_test\C_sharp_test\bin\Debug\C_sharp_test.exe.config
+C:\Users\fona1\source\repos\C_sharp_test\C_sharp_test\bin\Debug\C_sharp_test.exe
+C:\Users\fona1\source\repos\C_sharp_test\C_sharp_test\bin\Debug\C_sharp_test.pdb
+C:\Users\fona1\source\repos\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.csproj.AssemblyReference.cache
+C:\Users\fona1\source\repos\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\fona1\source\repos\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.csproj.CoreCompileInputs.cache
+C:\Users\fona1\source\repos\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.exe
+C:\Users\fona1\source\repos\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.pdb

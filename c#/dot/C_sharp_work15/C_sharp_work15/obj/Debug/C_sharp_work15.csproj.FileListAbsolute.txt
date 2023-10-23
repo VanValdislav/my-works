@@ -1,0 +1,8 @@
+C:\Users\fona1\source\repos\C_sharp_work15\C_sharp_work15\bin\Debug\C_sharp_work15.exe.config
+C:\Users\fona1\source\repos\C_sharp_work15\C_sharp_work15\bin\Debug\C_sharp_work15.exe
+C:\Users\fona1\source\repos\C_sharp_work15\C_sharp_work15\bin\Debug\C_sharp_work15.pdb
+C:\Users\fona1\source\repos\C_sharp_work15\C_sharp_work15\obj\Debug\C_sharp_work15.csproj.AssemblyReference.cache
+C:\Users\fona1\source\repos\C_sharp_work15\C_sharp_work15\obj\Debug\C_sharp_work15.csproj.SuggestedBindingRedirects.cache
+C:\Users\fona1\source\repos\C_sharp_work15\C_sharp_work15\obj\Debug\C_sharp_work15.csproj.CoreCompileInputs.cache
+C:\Users\fona1\source\repos\C_sharp_work15\C_sharp_work15\obj\Debug\C_sharp_work15.exe
+C:\Users\fona1\source\repos\C_sharp_work15\C_sharp_work15\obj\Debug\C_sharp_work15.pdb

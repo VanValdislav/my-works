@@ -1,0 +1,85 @@
+C:\Users\dimao\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\dimao\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\dimao\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\dimao\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\dimao\source\repos\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\dimao\source\repos\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
+C:\Users\ismag\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\ismag\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\ismag\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\ismag\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\ismag\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\ismag\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
+C:\Users\user\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\user\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\user\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\user\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\user\Desktop\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\user\Desktop\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\fona1\OneDrive\Рабочий стол\Calculator\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\fona1\OneDrive\Рабочий стол\все сшарп\CalculatorК\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
